@@ -4,8 +4,8 @@ API REST para controlar o empréstimo de equipamentos (notebooks, monitores, hea
 
 **Stack:** Java 25 · Spring Boot 4.1 · Spring Data JPA · H2 (em memória) · JUnit 5
 
-- **Repositório:** `<link do GitHub>`
-- **API no Render:** `<https://nome-do-projeto.onrender.com>`
+- **Repositório:** `<https://github.com/MirianCr/emprestimo-equipamentos>`
+- **API no Render:** `<https://emprestimo-equipamentos-bnr4.onrender.com/equipamentos>`
 
 ## Como rodar
 
