@@ -6,7 +6,7 @@ API REST para controlar o empréstimo de equipamentos (notebooks, monitores, hea
 
 - **Repositório:** `<https://github.com/MirianCr/emprestimo-equipamentos>`
 - **API no Render:** `<https://emprestimo-equipamentos-bnr4.onrender.com>`
-- link do video : https://app.screencastify.com/watch/9XOoKDh75bhpRQ8r1WDx
+- link do video : https://app.screencastify.com/watch/9XOoKDh75bhpRQ8r1WDx ou no youtube: https://youtu.be/6sps7P8NuT4
 
 ## Como rodar
 
